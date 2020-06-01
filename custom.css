@@ -1,0 +1,21 @@
+.jumbotron {
+  background-image: url("https://source.unsplash.com/random/200x300");
+  background-size: cover;
+  margin-bottom: 0.5rem;
+}
+
+.fa-whatsapp {
+  color: green;
+}
+
+.fa-line {
+  color: lightgreen;
+}
+
+.fa-telegram {
+  color: skyblue;
+}
+
+.fa-viber {
+  color: slateblue;
+}
