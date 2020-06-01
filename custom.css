@@ -19,3 +19,12 @@
 .fa-viber {
   color: slateblue;
 }
+
+.fa-check-circle {
+  color: limegreen;
+}
+
+.modal {
+  position: fixed;
+  top: 30%;
+}
